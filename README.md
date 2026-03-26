@@ -105,5 +105,11 @@ Star the repo if you find it useful!
 
 ---
 
+## ✨ Star History
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Powerpoint-AI-Agents&type=date&legend=bottom-right)](https://www.star-history.com/#ishandutta2007/Awesome-Powerpoint-AI-Agents&type=date&legend=bottom-right)
+
+
 **Made for creators, marketers, educators, and developers.**  
 Let's make presentation creation 10x faster and fully controllable.
