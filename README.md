@@ -59,6 +59,9 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[presentation-ai (ALLWEONE)](https://github.com/allweonedev/presentation-ai)**  
   Open-source Gamma.app clone. Next.js-based AI presentation generator with customizable themes, AI content, and beautiful slides in minutes. Easy self-hosting.
 
+- **[Ultimate PPT Master](https://github.com/kdnsna/ultimate-ppt-master-skill)**
+  Local-first AI presentation hub for Codex, Claude Code, and similar agents. Turns PDFs, Word docs, PPTX files, URLs, and rough notes into agent-ready project folders, then supports editable PowerPoint and magazine-style Web Deck output.
+
 - **[SlideDeck AI](https://github.com/barun-saha/slide-deck-ai)**  
   Powerful AI assistant for co-creating professional PowerPoint decks. Topic → complete PPTX using LLMs (supports offline Ollama). Simple, auditable, and fully open-source.
 
