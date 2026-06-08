@@ -113,3 +113,7 @@ Star the repo if you find it useful!
 
 **Made for creators, marketers, educators, and developers.**  
 Let's make presentation creation 10x faster and fully controllable.
+
+## 🔐 Agent Identity & Trust
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** — Trust scoring and wallet identity verification for AI agents. Verify agent identity before API access or x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
