@@ -18,6 +18,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/ishandutta2007/Awesome-Powerpoint-AI-Agents?style=for-the-badge&color=ff4500)](https://github.com/ishandutta2007/Awesome-Powerpoint-AI-Agents/issues)
 [![License](https://img.shields.io/github/license/ishandutta2007/Awesome-Powerpoint-AI-Agents?style=for-the-badge&color=32cd32)](https://github.com/ishandutta2007/Awesome-Powerpoint-AI-Agents/blob/main/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/ishandutta2007/Awesome-Powerpoint-AI-Agents/blob/main/CONTRIBUTING.md)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge" /></a>
 
 **A curated ecosystem of AI agents, SaaS products, and open-source projects designed to automate slide deck creation with multi-step reasoning.**
 
