@@ -46,22 +46,21 @@ This repository tracks the evolution of **AI Slide & PowerPoint Agents**. Unlike
 
 ### Core Platforms (Leaderboard) 🏆
 
-- **[Gamma](https://gamma.app/)** 🚀  
-  *The industry leader.* Prompt, document, or URL → complete decks with narrative flow and smart layouts. Features agentic storytelling.
-- **[Beautiful.ai](https://www.beautiful.ai/)** 💎  
-  Design-first agent with Smart Slides that auto-adjust. Focuses on professional, on-brand presentations.
-- **[Plus AI](https://www.plus.ai/)** 🔌  
-  Native AI agent for Google Slides and PowerPoint. Best for enterprise workflows already in the MS/Google ecosystem.
-- **[Tome](https://tome.app/)** 📖  
-  Narrative-first agent. Turns ideas into story-driven decks with immersive visuals and web-like layouts.
-- **[SlideSpeak](https://slidespeak.co/)** ⚡  
-  Fast conversion from PDF/Word to editable PPTX with a powerful AI editor for redesigns.
+| Product | Description | Pricing | Free Tier / Trial |
+| :--- | :--- | :--- | :--- |
+| **[Gamma](https://gamma.app/)** | **Industry Leader.** Prompt, document, or URL → complete decks with narrative flow. Features agentic storytelling. | Starts at ~$10/mo | 400 one-time credits (~10 decks); watermark included. |
+| **[Beautiful.ai](https://www.beautiful.ai/)** | **Design-First.** Smart Slides that auto-adjust layouts. Focuses on professional, on-brand presentations. | Starts at $12/mo | 14-day free trial (CC required); no permanent free tier. |
+| **[Plus AI](https://www.plus.ai/)** | **Native Integration.** AI agent for Google Slides & PowerPoint. Best for existing MS/Google workflows. | Starts at $10/mo | 7-day free trial (CC required); no permanent free tier. |
+| **[Tome](https://tome.app/)** | **Sales & Narrative.** Turns ideas into story-driven decks with immersive visuals and web-like layouts. | Starts at $16/mo | Limited monthly creates; includes "Made with Tome" watermark. |
+| **[SlideSpeak](https://slidespeak.co/)** | **Document-to-PPT.** Fast conversion from PDF/Word to editable PPTX with AI-powered redesigns. | Starts at ~$24/mo | 3 one-time credits; 50MB upload limit. |
 
 ### Advanced & Specialized Agents 🛠️
 
-- **[Presentations.AI](https://www.presentations.ai/)** — Enterprise-grade with brand-safe templates.
-- **[Canva Magic Studio](https://www.canva.com/magic-studio/)** — Integrated Magic Design for prompt-to-deck.
-- **[Decktopus](https://www.decktopus.com/)** — Specialized in quick pitch decks and business proposals.
+| Product | Description | Pricing | Free Tier / Trial |
+| :--- | :--- | :--- | :--- |
+| **[Presentations.AI](https://www.presentations.ai/)** | Enterprise-grade with brand-safe templates and high-volume generation. | Starts at $20/mo | 100 one-time credits (4-5 decks); no export in free tier. |
+| **[Canva Magic Studio](https://www.canva.com/magic-studio/)** | Integrated Magic Design for prompt-to-deck within the Canva ecosystem. | Starts at ~$12.99/mo | Limited shared pool (up to 200 standard/20 premium AI uses). |
+| **[Decktopus](https://www.decktopus.com/)** | Specialized in quick pitch decks, business proposals, and lead generation. | Starts at $14.99/mo | 3 presentations limit; watermark included. |
 
 ---
 
