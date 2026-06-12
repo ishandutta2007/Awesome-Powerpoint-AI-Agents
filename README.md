@@ -77,15 +77,19 @@ This repository tracks the evolution of **AI Slide & PowerPoint Agents**. Unlike
 ### Dedicated AI Slide / PowerPoint Agents 📂
 
 - **[Presenton](https://github.com/presenton/presenton)** ⭐  
-  The top open-source alternative. Full API, custom HTML/Tailwind templates, and local LLM support (Ollama/Docker).
+  The top open-source alternative. Full API, custom HTML/Tailwind templates, and local LLM support (Ollama/Docker). Features an **MCP server** for agentic integration.
+- **[PPTAgent / DeepPresenter](https://github.com/icip-cas/PPTAgent)** 🔬  
+  Agentic framework for reflective PowerPoint generation (EMNLP 2025). Focuses on **multi-step reasoning** and deep research with a tool-enabled sandbox.
+- **[Odin-Slides](https://github.com/leonid20000/odin-slides)** 🐍  
+  Python-based agent specialized in converting long-form research papers and documents into structured PowerPoint decks.
 - **[presentation-ai (ALLWEONE)](https://github.com/allweonedev/presentation-ai)** 📂  
-  Next.js-based AI generator with customizable themes. Excellent for self-hosting.
+  Next.js-based generator with real-time preview. Excellent for self-hosting and developers wanting a frictionless UI.
 - **[SlideDeck AI](https://github.com/barun-saha/slide-deck-ai)** 🧠  
-  Co-creation assistant using LLMs (supports offline Ollama) to generate native PPTX.
-- **[PPTAgent](https://github.com/icip-cas/PPTAgent)** 🔬  
-  Agentic framework for reflective PowerPoint generation (EMNLP paper). Focuses on multi-step reasoning and research integration.
-- **[ChillDeck](https://github.com/Isha-upadhyay/ChillDeck)** ❄️  
-  Multi-agent generator using LangChain + LangGraph for research-backed decks.
+  Co-creation assistant using LLMs (supports offline Ollama) to generate native PPTX via structured JSON.
+- **[AI-Presentation-Generator](https://github.com/mshumer/ai-presentation-generator)** ⚡  
+  A "Zero API Key" approach using free-tier Hugging Face models. Highly accessible for users without paid LLM accounts.
+- **[Marp Ecosystem](https://github.com/marp-team/marp)** 📝  
+  The industry standard for "Slides-as-Code." Modern AI workflows often output Marp Markdown to render professional, version-controlled slides.
 - **[slideitin](https://github.com/martin226/slideitin)** 📄  
   Document-to-slides agent using Google Gemini. Perfect for quick conversions.
 
@@ -99,38 +103,9 @@ This repository tracks the evolution of **AI Slide & PowerPoint Agents**. Unlike
 
 ## 🤝 How to Contribute
 
-Contributions make the community awesome! 
-
 1. **Fork** the Project.
 2. **Create** your Feature Branch (`git checkout -b feature/AmazingTool`).
 3. **Commit** your Changes (`git commit -m 'Add some AmazingTool'`).
-4. **Push** to the Branch (`git push origin feature/AmazingTool`).
-5. **Open** a Pull Request.
-
----
-
-## 📈 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Powerpoint-AI-Agents&type=date&legend=bottom-right)](https://star-history.com/#ishandutta2007/Awesome-Powerpoint-AI-Agents&type=date)
-
----
-
-## 📝 Disclaimer
-
-- This is a community-curated list and not an endorsement.
-- Verify data privacy and licensing before using these tools for sensitive data.
-- AI-generated content should always be reviewed for brand compliance and factual accuracy.
-
----
-
-<div align="center">
-  <b>Made with ❤️ for creators, marketers, and developers.</b><br>
-  <i>Let's make presentation creation 10x faster and fully controllable.</i>
-</div>
-
-<!-- Tags for SEO -->
-<!-- AI, PowerPoint, AI Agents, Slides, Gamma, Tome, Beautiful.ai, Open Source, LLM, Ollama, LangChain -->
-mit** your Changes (`git commit -m 'Add some AmazingTool'`).
 4. **Push** to the Branch (`git push origin feature/AmazingTool`).
 5. **Open** a Pull Request.
 
