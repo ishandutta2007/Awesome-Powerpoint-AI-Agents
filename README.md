@@ -46,21 +46,21 @@ This repository tracks the evolution of **AI Slide & PowerPoint Agents**. Unlike
 
 ### Core Platforms (Leaderboard) 🏆
 
-| Product | Description | Pricing | Free Tier / Trial |
-| :--- | :--- | :--- | :--- |
-| **[Gamma](https://gamma.app/)** | **Industry Leader.** Prompt, document, or URL → complete decks with narrative flow. Features agentic storytelling. | Starts at ~$10/mo | 400 one-time credits (~10 decks); watermark included. |
-| **[Beautiful.ai](https://www.beautiful.ai/)** | **Design-First.** Smart Slides that auto-adjust layouts. Focuses on professional, on-brand presentations. | Starts at $12/mo | 14-day free trial (CC required); no permanent free tier. |
-| **[Plus AI](https://www.plus.ai/)** | **Native Integration.** AI agent for Google Slides & PowerPoint. Best for existing MS/Google workflows. | Starts at $10/mo | 7-day free trial (CC required); no permanent free tier. |
-| **[Tome](https://tome.app/)** | **Sales & Narrative.** Turns ideas into story-driven decks with immersive visuals and web-like layouts. | Starts at $16/mo | Limited monthly creates; includes "Made with Tome" watermark. |
-| **[SlideSpeak](https://slidespeak.co/)** | **Document-to-PPT.** Fast conversion from PDF/Word to editable PPTX with AI-powered redesigns. | Starts at ~$24/mo | 3 one-time credits; 50MB upload limit. |
+| Product | Description | Pricing | Free Tier / Trial | Company Size (Valuation/Rev) |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Gamma](https://gamma.app/)** | **Industry Leader.** Prompt, document, or URL → complete decks with narrative flow. Features agentic storytelling. | Starts at ~$10/mo | 400 one-time credits (~10 decks); watermark included. | ~$2.1B Valuation / $100M+ ARR |
+| **[Tome](https://tome.app/)** | **Sales & Narrative.** Turns ideas into story-driven decks with immersive visuals and web-like layouts. | Starts at $16/mo | Limited monthly creates; includes "Made with Tome" watermark. | ~$1.3B Valuation |
+| **[Beautiful.ai](https://www.beautiful.ai/)** | **Design-First.** Smart Slides that auto-adjust layouts. Focuses on professional, on-brand presentations. | Starts at $12/mo | 14-day free trial (CC required); no permanent free tier. | ~$13.5M+ ARR / $60M+ Funding |
+| **[Plus AI](https://www.plus.ai/)** | **Native Integration.** AI agent for Google Slides & PowerPoint. Best for existing MS/Google workflows. | Starts at $10/mo | 7-day free trial (CC required); no permanent free tier. | ~$20M - $50M Valuation (Est.) |
+| **[SlideSpeak](https://slidespeak.co/)** | **Document-to-PPT.** Fast conversion from PDF/Word to editable PPTX with AI-powered redesigns. | Starts at ~$24/mo | 3 one-time credits; 50MB upload limit. | ~$2.5M Valuation (Est.) |
 
 ### Advanced & Specialized Agents 🛠️
 
-| Product | Description | Pricing | Free Tier / Trial |
-| :--- | :--- | :--- | :--- |
-| **[Presentations.AI](https://www.presentations.ai/)** | Enterprise-grade with brand-safe templates and high-volume generation. | Starts at $20/mo | 100 one-time credits (4-5 decks); no export in free tier. |
-| **[Canva Magic Studio](https://www.canva.com/magic-studio/)** | Integrated Magic Design for prompt-to-deck within the Canva ecosystem. | Starts at ~$12.99/mo | Limited shared pool (up to 200 standard/20 premium AI uses). |
-| **[Decktopus](https://www.decktopus.com/)** | Specialized in quick pitch decks, business proposals, and lead generation. | Starts at $14.99/mo | 3 presentations limit; watermark included. |
+| Product | Description | Pricing | Free Tier / Trial | Company Size (Valuation/Rev) |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Canva Magic Studio](https://www.canva.com/magic-studio/)** | Integrated Magic Design for prompt-to-deck within the Canva ecosystem. | Starts at ~$12.99/mo | Limited shared pool (up to 200 standard/20 premium AI uses). | ~$40B+ Valuation / $3.5B+ Rev |
+| **[Decktopus](https://www.decktopus.com/)** | Specialized in quick pitch decks, business proposals, and lead generation. | Starts at $14.99/mo | 3 presentations limit; watermark included. | ~$8.6M Valuation / $3M+ ARR |
+| **[Presentations.AI](https://www.presentations.ai/)** | Enterprise-grade with brand-safe templates and high-volume generation. | Starts at $20/mo | 100 one-time credits (4-5 decks); no export in free tier. | ~$7.9M Valuation / $2.6M+ ARR |
 
 ---
 
