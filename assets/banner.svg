@@ -1,0 +1,28 @@
+<svg width="1200" height="400" viewBox="0 0 1200 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="400" rx="40" fill="#1A1B27"/>
+  <defs>
+    <linearGradient id="paint0_linear" x1="0" y1="0" x2="1200" y2="400" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7AA2F7"/>
+      <stop offset="1" stop-color="#BB9AF7"/>
+    </linearGradient>
+  </defs>
+  <!-- Slide Outline -->
+  <path d="M400 100H800V300H400V100Z" fill="#24283B" stroke="url(#paint0_linear)" stroke-width="4"/>
+  <rect x="420" y="120" width="100" height="60" rx="4" fill="#414868"/>
+  <rect x="540" y="120" width="240" height="10" rx="2" fill="#414868"/>
+  <rect x="540" y="140" width="200" height="10" rx="2" fill="#414868"/>
+  <rect x="540" y="160" width="220" height="10" rx="2" fill="#414868"/>
+  
+  <!-- AI Sparkle -->
+  <g>
+    <path d="M300 200L250 150M300 200L250 250M300 200L350 150M300 200L350 250" stroke="#7AA2F7" stroke-width="4" stroke-linecap="round">
+      <animateTransform attributeName="transform" type="rotate" from="0 300 200" to="360 300 200" dur="10s" repeatCount="indefinite" />
+    </path>
+    <circle cx="300" cy="200" r="10" fill="#BB9AF7">
+      <animate attributeName="r" values="8;12;8" dur="2s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <text x="600" y="340" text-anchor="middle" fill="#C0CAF5" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="bold">Awesome PowerPoint AI Agents</text>
+  <text x="600" y="375" text-anchor="middle" fill="#565F89" font-family="Segoe UI, Arial, sans-serif" font-size="24">The Ultimate Ecosystem for AI-Driven Presentations</text>
+</svg>

@@ -1,115 +1,124 @@
-# Awesome-Powerpoint-AI-Agents
+<!-- SEO Meta Tags -->
+<!--
+  Title: Awesome PowerPoint AI Agents - Curated List of AI Slide Generators
+  Description: Discover the best AI agents for PowerPoint and slide creation. Curated list of SaaS and open-source tools like Gamma, Tome, and Presenton.
+  Keywords: AI Presentation, PowerPoint AI, AI Slide Generator, Presentation Agent, Autonomous Slides, Open Source PPT AI
+-->
 
-## AI Slide / PowerPoint Agents Ecosystem
+<div align="center">
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-*Focused on AI Agents for Presentation / Slide Deck Creation*  
-**Last updated: March 2026**
+<a href="https://github.com/ishandutta2007/Awesome-Powerpoint-AI-Agents">
+  <img src="assets/banner.svg" alt="Awesome PowerPoint AI Agents Banner" width="100%" />
+</a>
 
-This repository tracks notable **SaaS platforms** and **open-source projects** building **AI slide/PowerPoint agents** — autonomous or semi-autonomous systems that generate full slide decks from text prompts, documents, PDFs, topics, or web content. They handle structure, content, design, visuals, speaker notes, and exports (PPTX, PDF, Google Slides).
+# 🚀 Awesome PowerPoint AI Agents 🪄
 
-**Examples** include Gamma, Beautiful.ai, Plus AI, Tome, and SlideSpeak (the category leaders). Tools listed here emphasize **agentic capabilities** (multi-step reasoning, document analysis, iterative refinement, custom themes, RAG-style grounding) rather than basic text-to-slide converters.
+[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Powerpoint-AI-Agents?style=for-the-badge&color=ffd700)](https://github.com/ishandutta2007/Awesome-Powerpoint-AI-Agents/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-Powerpoint-AI-Agents?style=for-the-badge&color=007bff)](https://github.com/ishandutta2007/Awesome-Powerpoint-AI-Agents/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/ishandutta2007/Awesome-Powerpoint-AI-Agents?style=for-the-badge&color=ff4500)](https://github.com/ishandutta2007/Awesome-Powerpoint-AI-Agents/issues)
+[![License](https://img.shields.io/github/license/ishandutta2007/Awesome-Powerpoint-AI-Agents?style=for-the-badge&color=32cd32)](https://github.com/ishandutta2007/Awesome-Powerpoint-AI-Agents/blob/main/LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](https://github.com/ishandutta2007/Awesome-Powerpoint-AI-Agents/blob/main/CONTRIBUTING.md)
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, local LLMs (Ollama), custom agents, and full control.
+**A curated ecosystem of AI agents, SaaS products, and open-source projects designed to automate slide deck creation with multi-step reasoning.**
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+[Features](#-key-capabilities) • [SaaS Products](#-saas-products) • [Open-Source](#-open-source-github-projects) • [Contributing](#-how-to-contribute)
 
-## Table of Contents
-- [SaaS Products](#saas-products)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+<img src="assets/demo.svg" alt="AI Presentation Agent Demo" width="300px" />
 
-## SaaS Products
-
-### Core Platforms (Full AI Slide / PowerPoint Agents)
-
-- **[Gamma](https://gamma.app/)**  
-  Leading AI presentation agent. Prompt, document, or URL → complete, beautiful decks with narrative flow, smart layouts, images, and exports. Agentic storytelling and real-time editing. Popular for startups, education, and marketing.
-
-- **[Beautiful.ai](https://www.beautiful.ai/)**  
-  Design-first AI slide agent with Smart Slides that auto-adjust layouts. Prompt-to-deck, brand templates, team collaboration, and PPTX export. Strong for professional, on-brand presentations.
-
-- **[Plus AI](https://www.plus.ai/)**  
-  Native AI agent inside Google Slides and PowerPoint. Generates/rewrites entire decks, outlines, or individual slides with deep editing and data visualization. Best for enterprise users already in Microsoft/Google ecosystems.
-
-- **[Tome](https://tome.app/)**  
-  Narrative-first AI presentation agent. Turns ideas into story-driven decks with immersive visuals, web-like layouts, and interactive elements. Excellent for pitches and storytelling.
-
-- **[SlideSpeak](https://slidespeak.co/)**  
-  Fast AI PowerPoint agent that converts PDFs, Word, text, websites, or prompts into native, editable PPTX decks. Chrome extension for 1-click website-to-slides and full AI editor for redesigns.
-
-### Advanced & Specialized Agents
-
-- **[Presentations.AI](https://www.presentations.ai/)**  
-  Enterprise AI agent with brand-safe templates, deep customization, and team workflows.
-
-- **[Canva Magic Studio](https://www.canva.com/magic-studio/)** (Magic Design for Presentations)  
-  Integrated AI agent inside Canva for prompt-to-deck or document-to-slides with massive template library.
-
-**Other notable mentions**: Microsoft Copilot for PowerPoint, Prezent.ai, Decktopus, and Slidesgo AI.
-
-## Open-Source GitHub Projects
-
-### Dedicated AI Slide / PowerPoint Agent Projects
-
-- **[Presenton](https://github.com/presenton/presenton)**  
-  Top open-source AI presentation generator and API (Gamma/Beautiful.ai alternative). Prompt or document → full decks with custom HTML/Tailwind templates, brand control, PPTX/PDF export. Fully local (Ollama/Docker), no vendor lock-in. Apache 2.0.
-
-- **[presentation-ai (ALLWEONE)](https://github.com/allweonedev/presentation-ai)**  
-  Open-source Gamma.app clone. Next.js-based AI presentation generator with customizable themes, AI content, and beautiful slides in minutes. Easy self-hosting.
-
-- **[SlideDeck AI](https://github.com/barun-saha/slide-deck-ai)**  
-  Powerful AI assistant for co-creating professional PowerPoint decks. Topic → complete PPTX using LLMs (supports offline Ollama). Simple, auditable, and fully open-source.
-
-- **[PPTAgent](https://github.com/icip-cas/PPTAgent)**  
-  Advanced **agentic framework** for reflective PowerPoint generation (EMNLP paper). Multi-step reasoning, research integration, free-form visual design, text-to-image, and PPTX export. Offline mode supported.
-
-- **[ChillDeck](https://github.com/Isha-upadhyay/ChillDeck)**  
-  Multi-agent AI slide generator (LangChain + LangGraph). Topic or uploaded notes → research-backed, professional decks like Gamma/Notion AI. Fully customizable and open-source.
-
-- **[slideitin](https://github.com/martin226/slideitin)**  
-  Document-to-slides agent. Upload PDF/Markdown → beautiful AI-generated decks using Gemini. Web app interface, perfect for quick conversions.
-
-- **[ai-ppt-slide-generator](https://github.com/ysskrishna/ai-ppt-slide-generator)**  
-  FastAPI backend for AI-powered PPTX generation using Google Gemini (or custom content). API-first for building custom agents.
-
-- **[SlidesGenie](https://github.com/raphaeltony/SlidesGenie)**  
-  AI agent that generates full Google Slides presentations from any topic (ChatGPT + DALL-E visuals).
-
-- **[slides_generator](https://github.com/ai-forever/slides_generator)**  
-  Single-prompt PPTX generation framework. LLM for text + image integration.
-
-### Additional Strong Open-Source Options
-- **[SlideAI](https://github.com/siddhesh-desai/SlideAI)** — Automatic PowerPoint maker using OpenAI/Bing.
-- **[slidemason](https://github.com/erickittelson/slidemason)** — 100% local AI presentation builder (no API keys).
-- **[nooqta/ai-presentation](https://github.com/nooqta/ai-presentation)** — OpenAI + Reveal.js HTML slide decks.
-- **[Generate_PPT_using_llama2](https://github.com/Ginga1402/Generate_PPT_using_llama2)** and forks of python-pptx + LLM pipelines.
-
-**Frameworks for building custom agents**: Use LangGraph/CrewAI + python-pptx or ComfyUI workflows on top of these models. See awesome lists under "ai-presentation-generator" topic on GitHub.
-
-## How to Contribute
-
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-4. Submit PR with a short explanation.
-
-Star the repo if you find it useful!
-
-## Disclaimer
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-- Always verify data privacy, security, and licensing when self-hosting open-source tools.
-- AI-generated slides are powerful tools but **not substitutes** for human creativity, brand compliance, or final review.
+</div>
 
 ---
 
-## ✨ Star History
+## 🌟 Overview
 
+This repository tracks the evolution of **AI Slide & PowerPoint Agents**. Unlike basic text-to-slide converters, these systems leverage autonomous or semi-autonomous agents to handle structure, content research, design, and speaker notes.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Powerpoint-AI-Agents&type=date&legend=bottom-right)](https://www.star-history.com/#ishandutta2007/Awesome-Powerpoint-AI-Agents&type=date&legend=bottom-right)
+### ✨ Key Capabilities
+- 🤖 **Agentic Reasoning**: Multi-step planning and iterative refinement.
+- 📂 **Document Intelligence**: Converting PDFs, Word docs, and web URLs into slides.
+- 🎨 **Smart Design**: Auto-adjusting layouts and brand-consistent themes.
+- 🌍 **RAG-Style Grounding**: Using local or web data to ensure factual accuracy.
 
+---
 
-**Made for creators, marketers, educators, and developers.**  
-Let's make presentation creation 10x faster and fully controllable.
+## 🏗️ SaaS Products
+
+### Core Platforms (Leaderboard) 🏆
+
+- **[Gamma](https://gamma.app/)** 🚀  
+  *The industry leader.* Prompt, document, or URL → complete decks with narrative flow and smart layouts. Features agentic storytelling.
+- **[Beautiful.ai](https://www.beautiful.ai/)** 💎  
+  Design-first agent with Smart Slides that auto-adjust. Focuses on professional, on-brand presentations.
+- **[Plus AI](https://www.plus.ai/)** 🔌  
+  Native AI agent for Google Slides and PowerPoint. Best for enterprise workflows already in the MS/Google ecosystem.
+- **[Tome](https://tome.app/)** 📖  
+  Narrative-first agent. Turns ideas into story-driven decks with immersive visuals and web-like layouts.
+- **[SlideSpeak](https://slidespeak.co/)** ⚡  
+  Fast conversion from PDF/Word to editable PPTX with a powerful AI editor for redesigns.
+
+### Advanced & Specialized Agents 🛠️
+
+- **[Presentations.AI](https://www.presentations.ai/)** — Enterprise-grade with brand-safe templates.
+- **[Canva Magic Studio](https://www.canva.com/magic-studio/)** — Integrated Magic Design for prompt-to-deck.
+- **[Decktopus](https://www.decktopus.com/)** — Specialized in quick pitch decks and business proposals.
+
+---
+
+## 🔓 Open-Source GitHub Projects
+
+### Dedicated AI Slide / PowerPoint Agents 📂
+
+- **[Presenton](https://github.com/presenton/presenton)** ⭐  
+  The top open-source alternative. Full API, custom HTML/Tailwind templates, and local LLM support (Ollama/Docker).
+- **[presentation-ai (ALLWEONE)](https://github.com/allweonedev/presentation-ai)** 📂  
+  Next.js-based AI generator with customizable themes. Excellent for self-hosting.
+- **[SlideDeck AI](https://github.com/barun-saha/slide-deck-ai)** 🧠  
+  Co-creation assistant using LLMs (supports offline Ollama) to generate native PPTX.
+- **[PPTAgent](https://github.com/icip-cas/PPTAgent)** 🔬  
+  Agentic framework for reflective PowerPoint generation (EMNLP paper). Focuses on multi-step reasoning and research integration.
+- **[ChillDeck](https://github.com/Isha-upadhyay/ChillDeck)** ❄️  
+  Multi-agent generator using LangChain + LangGraph for research-backed decks.
+- **[slideitin](https://github.com/martin226/slideitin)** 📄  
+  Document-to-slides agent using Google Gemini. Perfect for quick conversions.
+
+### Community Favorites & Tools 🛠️
+- **[SlidesGenie](https://github.com/raphaeltony/SlidesGenie)** — Topic-to-Google Slides (ChatGPT + DALL-E).
+- **[slidemason](https://github.com/erickittelson/slidemason)** — 100% local builder (zero API keys).
+- **[SlideAI](https://github.com/siddhesh-desai/SlideAI)** — Automatic PPT maker using OpenAI/Bing.
+- **[nooqta/ai-presentation](https://github.com/nooqta/ai-presentation)** — Markdown to Reveal.js via AI.
+
+---
+
+## 🤝 How to Contribute
+
+Contributions make the community awesome! 
+
+1. **Fork** the Project.
+2. **Create** your Feature Branch (`git checkout -b feature/AmazingTool`).
+3. **Commit** your Changes (`git commit -m 'Add some AmazingTool'`).
+4. **Push** to the Branch (`git push origin feature/AmazingTool`).
+5. **Open** a Pull Request.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Powerpoint-AI-Agents&type=date&legend=bottom-right)](https://star-history.com/#ishandutta2007/Awesome-Powerpoint-AI-Agents&type=date)
+
+---
+
+## 📝 Disclaimer
+
+- This is a community-curated list and not an endorsement.
+- Verify data privacy and licensing before using these tools for sensitive data.
+- AI-generated content should always be reviewed for brand compliance and factual accuracy.
+
+---
+
+<div align="center">
+  <b>Made with ❤️ for creators, marketers, and developers.</b><br>
+  <i>Let's make presentation creation 10x faster and fully controllable.</i>
+</div>
+
+<!-- Tags for SEO -->
+<!-- AI, PowerPoint, AI Agents, Slides, Gamma, Tome, Beautiful.ai, Open Source, LLM, Ollama, LangChain -->

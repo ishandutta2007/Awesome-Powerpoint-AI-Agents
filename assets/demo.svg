@@ -1,0 +1,39 @@
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" rx="20" fill="#1A1B27"/>
+  
+  <!-- Prompt Box -->
+  <rect x="50" y="50" width="300" height="40" rx="8" fill="#24283B" stroke="#7AA2F7" stroke-width="2">
+    <animate attributeName="stroke-opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite" />
+  </rect>
+  <text x="65" y="75" fill="#7AA2F7" font-family="monospace" font-size="14">
+    Creating presentation about AI...
+    <animate attributeName="opacity" values="0;1;1;0" dur="4s" repeatCount="indefinite" />
+  </text>
+
+  <!-- Thinking Dots -->
+  <g>
+    <circle cx="180" cy="150" r="4" fill="#BB9AF7">
+      <animate attributeName="opacity" values="0;1;0" dur="1s" begin="1s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="200" cy="150" r="4" fill="#BB9AF7">
+      <animate attributeName="opacity" values="0;1;0" dur="1s" begin="1.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="220" cy="150" r="4" fill="#BB9AF7">
+      <animate attributeName="opacity" values="0;1;0" dur="1s" begin="1.4s" repeatCount="indefinite" />
+    </circle>
+    <animate attributeName="display" values="none;inline;none" keyTimes="0;0.25;0.75" dur="4s" repeatCount="indefinite" />
+  </g>
+
+  <!-- Slide Generation -->
+  <g>
+    <rect x="100" y="120" width="200" height="120" rx="4" fill="#24283B" stroke="#7AA2F7" stroke-width="2" />
+    <rect x="110" y="130" width="60" height="40" rx="2" fill="#414868">
+       <animate attributeName="fill" values="#414868;#7AA2F7;#414868" dur="4s" repeatCount="indefinite" />
+    </rect>
+    <rect x="180" y="135" width="100" height="8" rx="2" fill="#414868" />
+    <rect x="180" y="150" width="80" height="8" rx="2" fill="#414868" />
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.6;0.8;1" dur="4s" repeatCount="indefinite" />
+  </g>
+
+  <text x="200" y="280" text-anchor="middle" fill="#565F89" font-family="sans-serif" font-size="12">AI Agent generating slides...</text>
+</svg>
