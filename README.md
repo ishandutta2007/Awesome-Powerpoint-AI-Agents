@@ -50,17 +50,25 @@ This repository tracks the evolution of **AI Slide & PowerPoint Agents**. Unlike
 | :--- | :--- | :--- | :--- | :--- |
 | **[Gamma](https://gamma.app/)** | **Industry Leader.** Prompt, document, or URL → complete decks with narrative flow. Features agentic storytelling. | Starts at ~$10/mo | 400 one-time credits (~10 decks); watermark included. | ~$2.1B Valuation / $100M+ ARR |
 | **[Tome](https://tome.app/)** | **Sales & Narrative.** Turns ideas into story-driven decks with immersive visuals and web-like layouts. | Starts at $16/mo | Limited monthly creates; includes "Made with Tome" watermark. | ~$1.3B Valuation |
+| **[PopAi](https://popai.pro/)** | **Rapid Growth.** Singapore-based productivity workspace; excellent for document-to-PPT conversion with AI outlining. | Starts at $10/mo | 1 AI presentation/week; 5 AI docs weekly. | ~1.5M+ Users / High-growth |
 | **[Beautiful.ai](https://www.beautiful.ai/)** | **Design-First.** Smart Slides that auto-adjust layouts. Focuses on professional, on-brand presentations. | Starts at $12/mo | 14-day free trial (CC required); no permanent free tier. | ~$13.5M+ ARR / $60M+ Funding |
 | **[Plus AI](https://www.plus.ai/)** | **Native Integration.** AI agent for Google Slides & PowerPoint. Best for existing MS/Google workflows. | Starts at $10/mo | 7-day free trial (CC required); no permanent free tier. | ~$20M - $50M Valuation (Est.) |
+| **[SlidesAI.io](https://www.slidesai.io/)** | **Utility Choice.** Deep Google Slides integration with over 15M installs. Supports topic-to-presentation and document uploads. | Starts at $10/mo | 3 presentations/month; 2,500 character limit. | ~$2.6M Valuation / $1.2M+ ARR |
 | **[SlideSpeak](https://slidespeak.co/)** | **Document-to-PPT.** Fast conversion from PDF/Word to editable PPTX with AI-powered redesigns. | Starts at ~$24/mo | 3 one-time credits; 50MB upload limit. | ~$2.5M Valuation (Est.) |
 
 ### Advanced & Specialized Agents 🛠️
 
 | Product | Description | Pricing | Free Tier / Trial | Company Size (Valuation/Rev) |
 | :--- | :--- | :--- | :--- | :--- |
-| **[Canva Magic Studio](https://www.canva.com/magic-studio/)** | Integrated Magic Design for prompt-to-deck within the Canva ecosystem. | Starts at ~$12.99/mo | Limited shared pool (up to 200 standard/20 premium AI uses). | ~$40B+ Valuation / $3.5B+ Rev |
-| **[Decktopus](https://www.decktopus.com/)** | Specialized in quick pitch decks, business proposals, and lead generation. | Starts at $14.99/mo | 3 presentations limit; watermark included. | ~$8.6M Valuation / $3M+ ARR |
-| **[Presentations.AI](https://www.presentations.ai/)** | Enterprise-grade with brand-safe templates and high-volume generation. | Starts at $20/mo | 100 one-time credits (4-5 decks); no export in free tier. | ~$7.9M Valuation / $2.6M+ ARR |
+| **[Microsoft Copilot](https://www.microsoft.com/en-us/microsoft-365/copilot)** | **Enterprise Standard.** Deep Office 365 integration with OpenAI Sora 2 support and voice-to-presentation capabilities. | ~$20 - $30/mo | Free basic version; Copilot Pro for AI features. | Trillion-Dollar Company |
+| **[Canva Magic Studio](https://www.canva.com/magic-studio/)** | **Design Ecosystem.** Integrated Magic Design for prompt-to-deck within the Canva ecosystem. | Starts at ~$12.99/mo | Limited shared pool (up to 200 standard/20 premium AI uses). | ~$40B+ Valuation / $3.5B+ Rev |
+| **[Jotform Agents](https://www.jotform.com/ai-presentation-generator/)** | **Maker + Presenter.** Generates slides and "presents" them with AI voice and real-time interactive Q&A. | Bundle with Jotform | Free trial available. | Billion-Dollar Private Company |
+| **[Kroma.ai](https://kroma.ai/)** | **Data-Heavy.** Enterprise-ready platform focusing on data visualization, pitch decks, and brand governance. | Starts at $49.99/mo | Freemium available. | ~$20M - $40M Valuation / $4.2M+ ARR |
+| **[Decktopus](https://www.decktopus.com/)** | **Business Utility.** Specialized in quick pitch decks, business proposals, and lead generation. | Starts at $14.99/mo | 3 presentations limit; watermark included. | ~$8.6M Valuation / $3M+ ARR |
+| **[Presentations.AI](https://www.presentations.ai/)** | **High Volume.** Enterprise-grade with brand-safe templates and high-volume generation. | Starts at $20/mo | 100 one-time credits (4-5 decks); no export in free tier. | ~$7.9M Valuation / $2.6M+ ARR |
+| **[Pi (Presentation Intelligence)](https://pi.inc/)** | **AI-Native.** Breakout 2026 leader that generates unique designs (not templates) in seconds. | Freemium | Free-forever plan with no watermarks. | Seed Stage / Emerging |
+| **[SlideGMM](https://slidegmm.com/)** | **Budget Choice.** High-speed, affordable generator that exports fully editable .pptx vectors. | Starts at $4.99/mo | Free prompt-based generation / PDF export. | Seed Stage / Emerging |
+| **[Prezo AI](https://prezo.ai/)** | **Multi-Format.** An all-in-one canvas that flips content between slide, document, and website formats. | Starts at ~$10/mo | Freemium available. | Seed Stage / Emerging |
 
 ---
 
@@ -96,6 +104,33 @@ Contributions make the community awesome!
 1. **Fork** the Project.
 2. **Create** your Feature Branch (`git checkout -b feature/AmazingTool`).
 3. **Commit** your Changes (`git commit -m 'Add some AmazingTool'`).
+4. **Push** to the Branch (`git push origin feature/AmazingTool`).
+5. **Open** a Pull Request.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Powerpoint-AI-Agents&type=date&legend=bottom-right)](https://star-history.com/#ishandutta2007/Awesome-Powerpoint-AI-Agents&type=date)
+
+---
+
+## 📝 Disclaimer
+
+- This is a community-curated list and not an endorsement.
+- Verify data privacy and licensing before using these tools for sensitive data.
+- AI-generated content should always be reviewed for brand compliance and factual accuracy.
+
+---
+
+<div align="center">
+  <b>Made with ❤️ for creators, marketers, and developers.</b><br>
+  <i>Let's make presentation creation 10x faster and fully controllable.</i>
+</div>
+
+<!-- Tags for SEO -->
+<!-- AI, PowerPoint, AI Agents, Slides, Gamma, Tome, Beautiful.ai, Open Source, LLM, Ollama, LangChain -->
+mit** your Changes (`git commit -m 'Add some AmazingTool'`).
 4. **Push** to the Branch (`git push origin feature/AmazingTool`).
 5. **Open** a Pull Request.
 
