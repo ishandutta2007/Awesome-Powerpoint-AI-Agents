@@ -15,7 +15,7 @@
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
 <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Powerpoint-AI-Agents?style=for-the-badge&color=ffd700)](https://github.com/ishandutta2007/Awesome-Powerpoint-AI-Agents/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Powerpoint-AI-Agents?style=for-the-badge&color=ffd700)](https://github.com/ishandutta2007/Awesome-Powerpoint-AI-Agents/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ishandutta2007/Awesome-Powerpoint-AI-Agents?style=for-the-badge&color=007bff)](https://github.com/ishandutta2007/Awesome-Powerpoint-AI-Agents/network/members)
 [![GitHub issues](https://img.shields.io/github/issues/ishandutta2007/Awesome-Powerpoint-AI-Agents?style=for-the-badge&color=ff4500)](https://github.com/ishandutta2007/Awesome-Powerpoint-AI-Agents/issues)
 [![License](https://img.shields.io/github/license/ishandutta2007/Awesome-Powerpoint-AI-Agents?style=for-the-badge&color=32cd32)](https://github.com/ishandutta2007/Awesome-Powerpoint-AI-Agents/blob/main/LICENSE)
@@ -85,7 +85,7 @@ The global presentation software and AI slide generation market is estimated at 
 
 ## 🔓 Open-Source GitHub Projects
 
-Sorted descending by GitHub stars ⭐.
+Sorted descending by GitHub_Stars ⭐.
 
 ### Dedicated AI Slide / PowerPoint Agents 📂
 
@@ -165,3 +165,12 @@ If you find this repository helpful, please consider:
 
 <!-- SEO Discovery Tags -->
 <!-- AI, PowerPoint, AI Agents, Slides, Gamma, Tome, Beautiful.ai, Open Source, LLM, Ollama, LangChain, Pitch Deck, Slide Maker, Slide Generator, GenAI, Presentation Agents -->
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Powerpoint-AI-Agents&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Powerpoint-AI-Agents_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Powerpoint-AI-Agents_growth.svg">
+  </picture>
+</a>
