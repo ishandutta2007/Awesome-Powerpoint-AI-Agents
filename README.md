@@ -24,7 +24,7 @@
 
 **A comprehensive, curated ecosystem of autonomous AI agents, commercial SaaS powerhouses, and open-source GitHub frameworks engineered to automate presentation design, narrative generation, and slide deck authoring with multi-step reasoning.**
 
-[✨ Overview](#-overview) • [⚡ Key Capabilities](#-key-capabilities) • [🏗️ SaaS Products](#-saas-products) • [🔓 Open-Source](#-open-source-github-projects) • [🤝 Contributing](#-how-to-contribute) • [📈 Star History](#-star-history)
+[✨ Overview](#-overview) • [⚡ Key Capabilities](#-key-capabilities) • [🏗️ SaaS Products](#-saas-products) • [🔓 Open-Source](#-open-source-github-projects) • [🤝 Contributing](#-how-to-contribute) • [💖 Support](#-support) • [📈 Star History](#-star-history)
 
 <img src="assets/demo.svg" alt="AI Presentation Agent Demo" width="300px" />
 
@@ -81,33 +81,35 @@ Welcome to the definitive index of **AI Slide & PowerPoint Agents** 🤖. While 
 
 ## 🔓 Open-Source GitHub Projects
 
+Sorted descending by GitHub stars ⭐.
+
 ### Dedicated AI Slide / PowerPoint Agents 📂
 
-- 🌟 **[Presenton](https://github.com/presenton/presenton)**  
-  The leading open-source alternative. Full REST API, custom HTML/Tailwind templates, and local LLM support (Ollama/Docker). Features a dedicated **MCP server** for agentic tool calling.
-- 🔬 **[PPTAgent / DeepPresenter](https://github.com/icip-cas/PPTAgent)**  
-  Agentic framework for reflective PowerPoint generation (EMNLP 2025). Focuses on **multi-step reasoning** and deep research with a tool-enabled execution sandbox.
-- 🐍 **[Odin-Slides](https://github.com/leonid20000/odin-slides)**  
-  Python-based agent specialized in converting long-form academic research papers and documents into structured PowerPoint presentations.
-- 💻 **[presentation-ai (ALLWEONE)](https://github.com/allweonedev/presentation-ai)**  
-  Next.js-based generator with real-time preview and interactive editing. Excellent for self-hosting and developers wanting a frictionless modern UI.
-- 🧠 **[SlideDeck AI](https://github.com/barun-saha/slide-deck-ai)**  
-  Co-creation assistant using LLMs (supports offline Ollama) to generate native PPTX files via structured JSON schema representations.
-- ⚡ **[AI-Presentation-Generator](https://github.com/mshumer/ai-presentation-generator)**  
-  A "Zero API Key" approach utilizing free-tier Hugging Face models. Highly accessible for students and hobbyists without paid LLM accounts.
-- 📝 **[Marp Ecosystem](https://github.com/marp-team/marp)**  
+- 📝 **[Marp Ecosystem](https://github.com/marp-team/marp)** [![Stars](https://img.shields.io/github/stars/marp-team/marp?style=social&color=white)](https://github.com/marp-team/marp/stargazers)  
   The gold standard for "Slides-as-Code." Modern AI agent workflows often generate Marp Markdown to render deterministic, version-controlled slides.
-- 📄 **[slideitin](https://github.com/martin226/slideitin)**  
-  Document-to-slides agent powered by Google Gemini. Streamlined for rapid doc summaries into presentation decks.
-- 🤖 **[Orkas PptMaker](https://github.com/Orkas-AI/Orkas)**  
+- 🌟 **[Presenton](https://github.com/presenton/presenton)** [![Stars](https://img.shields.io/github/stars/presenton/presenton?style=social&color=white)](https://github.com/presenton/presenton/stargazers)  
+  The leading open-source alternative. Full REST API, custom HTML/Tailwind templates, and local LLM support (Ollama/Docker). Features a dedicated **MCP server** for agentic tool calling.
+- 🤖 **[Orkas PptMaker](https://github.com/Orkas-AI/Orkas)** [![Stars](https://img.shields.io/github/stars/Orkas-AI/Orkas?style=social&color=white)](https://github.com/Orkas-AI/Orkas/stargazers)  
   Turns a natural language brief into a reviewable slide plan and editable presentation inside an open-source, local-first desktop AI workforce coordinated by a Commander agent.
+- 🔬 **[PPTAgent / DeepPresenter](https://github.com/icip-cas/PPTAgent)** [![Stars](https://img.shields.io/github/stars/icip-cas/PPTAgent?style=social&color=white)](https://github.com/icip-cas/PPTAgent/stargazers)  
+  Agentic framework for reflective PowerPoint generation (EMNLP 2025). Focuses on **multi-step reasoning** and deep research with a tool-enabled execution sandbox.
+- 💻 **[presentation-ai (ALLWEONE)](https://github.com/allweonedev/presentation-ai)** [![Stars](https://img.shields.io/github/stars/allweonedev/presentation-ai?style=social&color=white)](https://github.com/allweonedev/presentation-ai/stargazers)  
+  Next.js-based generator with real-time preview and interactive editing. Excellent for self-hosting and developers wanting a frictionless modern UI.
+- 🧠 **[SlideDeck AI](https://github.com/barun-saha/slide-deck-ai)** [![Stars](https://img.shields.io/github/stars/barun-saha/slide-deck-ai?style=social&color=white)](https://github.com/barun-saha/slide-deck-ai/stargazers)  
+  Co-creation assistant using LLMs (supports offline Ollama) to generate native PPTX files via structured JSON schema representations.
+- 📄 **[slideitin](https://github.com/martin226/slideitin)** [![Stars](https://img.shields.io/github/stars/martin226/slideitin?style=social&color=white)](https://github.com/martin226/slideitin/stargazers)  
+  Document-to-slides agent powered by Google Gemini. Streamlined for rapid doc summaries into presentation decks.
+- 🐍 **[Odin-Slides](https://github.com/leonid20000/odin-slides)** [![Stars](https://img.shields.io/github/stars/leonid20000/odin-slides?style=social&color=white)](https://github.com/leonid20000/odin-slides/stargazers)  
+  Python-based agent specialized in converting long-form academic research papers and documents into structured PowerPoint presentations.
+- ⚡ **[AI-Presentation-Generator](https://github.com/mshumer/ai-presentation-generator)** [![Stars](https://img.shields.io/github/stars/mshumer/ai-presentation-generator?style=social&color=white)](https://github.com/mshumer/ai-presentation-generator/stargazers)  
+  A "Zero API Key" approach utilizing free-tier Hugging Face models. Highly accessible for students and hobbyists without paid LLM accounts.
 
 ### Community Favorites & Tools 🛠️
 
-- 🧞 **[SlidesGenie](https://github.com/raphaeltony/SlidesGenie)** — Topic-to-Google Slides automation (ChatGPT + DALL-E integration).
-- 🧱 **[slidemason](https://github.com/erickittelson/slidemason)** — 100% local slide builder without external API keys.
-- 🤖 **[SlideAI](https://github.com/siddhesh-desai/SlideAI)** — Automatic PPT creator powered by OpenAI and Bing search.
-- 🌐 **[nooqta/ai-presentation](https://github.com/nooqta/ai-presentation)** — Converts Markdown into Reveal.js interactive web presentations via AI.
+- 🤖 **[SlideAI](https://github.com/siddhesh-desai/SlideAI)** [![Stars](https://img.shields.io/github/stars/siddhesh-desai/SlideAI?style=social&color=white)](https://github.com/siddhesh-desai/SlideAI/stargazers) — Automatic PPT creator powered by OpenAI and Bing search.
+- 🌐 **[nooqta/ai-presentation](https://github.com/nooqta/ai-presentation)** [![Stars](https://img.shields.io/github/stars/nooqta/ai-presentation?style=social&color=white)](https://github.com/nooqta/ai-presentation/stargazers) — Converts Markdown into Reveal.js interactive web presentations via AI.
+- 🧞 **[SlidesGenie](https://github.com/raphaeltony/SlidesGenie)** [![Stars](https://img.shields.io/github/stars/raphaeltony/SlidesGenie?style=social&color=white)](https://github.com/raphaeltony/SlidesGenie/stargazers) — Topic-to-Google Slides automation (ChatGPT + DALL-E integration).
+- 🧱 **[slidemason](https://github.com/erickittelson/slidemason)** [![Stars](https://img.shields.io/github/stars/erickittelson/slidemason?style=social&color=white)](https://github.com/erickittelson/slidemason/stargazers) — 100% local slide builder without external API keys.
 
 ---
 
@@ -120,6 +122,22 @@ Contributions make the open-source and AI communities thrive! 🚀
 3. 💾 **Commit** your Changes (`git commit -m 'Add AmazingAgent to open-source tools'`).
 4. 📤 **Push** to the Branch (`git push origin feature/AmazingAgent`).
 5. 🔀 **Open** a Pull Request.
+
+---
+
+## 💖 Support
+
+Thank you so much for exploring and supporting **Awesome PowerPoint AI Agents**! 🙌
+
+If you find this repository helpful, please consider:
+- ⭐ **Starring** the repository on GitHub to help others discover it.
+- 🍴 **Forking** and contributing your favorite tools, agents, or frameworks.
+- 📢 **Sharing** with your colleagues, developer communities, and friends on social media.
+- ☕ **Buying a Coffee / Sponsoring** the maintainer via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<a href="https://github.com/sponsors/ishandutta2007">
+  <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor on GitHub" />
+</a>
 
 ---
 
