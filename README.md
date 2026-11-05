@@ -93,6 +93,9 @@ This repository tracks the evolution of **AI Slide & PowerPoint Agents**. Unlike
 - **[slideitin](https://github.com/martin226/slideitin)** 📄  
   Document-to-slides agent using Google Gemini. Perfect for quick conversions.
 
+- **[Orkas PptMaker](https://github.com/Orkas-AI/Orkas)** 📂  
+  Turns a brief into a reviewable slide plan and editable presentation inside an open-source, local-first desktop AI workforce coordinated by a Commander.
+
 ### Community Favorites & Tools 🛠️
 - **[SlidesGenie](https://github.com/raphaeltony/SlidesGenie)** — Topic-to-Google Slides (ChatGPT + DALL-E).
 - **[slidemason](https://github.com/erickittelson/slidemason)** — 100% local builder (zero API keys).
