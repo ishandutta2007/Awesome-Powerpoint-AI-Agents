@@ -80,6 +80,7 @@ The global presentation software and AI slide generation market is estimated at 
 | **[Pi (Presentation Intelligence)](https://pi.inc/)** 💡 | **AI-Native.** Breakout leader generating bespoke, template-free responsive designs in seconds. | Freemium | Free-forever plan with no watermarks. | Seed Stage / Emerging |
 | **[SlideGMM](https://slidegmm.com/)** 💰 | **Budget Choice.** High-speed, affordable generator that exports fully editable .pptx vector graphics. | Starts at $4.99/mo | Free prompt-based generation / PDF export. | Seed Stage / Emerging |
 | **[Prezo AI](https://prezo.ai/)** 🔄 | **Multi-Format.** Dynamic canvas that effortlessly transforms content between slide, document, and web formats. | Starts at ~$10/mo | Freemium available. | Seed Stage / Emerging |
+| **[Inplain](https://inplain.app/)** 🔗 | **Editable artifacts.** Turns ChatGPT, Claude, Codex, or Cursor output into editable decks, documents, spreadsheets, dashboards, and shareable links through the web, MCP, or CLI. | Starts at $20/mo | 50 credits/month. | — |
 
 ---
 
